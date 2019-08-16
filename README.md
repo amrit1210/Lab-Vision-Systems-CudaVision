@@ -8,4 +8,8 @@ Assignment 3 :- (i) Add regularization to your CFAR-10 model (Dropout, L1, and L
 
 Assignment 4 :- (i) Train a CNN for CIFAR-10 with the best hyperparameters (ii) Visualize output image of each Conv filter (iii) Visualize kernel of each Conv filter (iv) Find out what works better in CIFAR-10? MaxPooling or AvgPooling
 
-Assignment 5:- Fine tuning a pretrained network
+Assignment 5 :- Fine tuning a pretrained network
+Dataset :- Attached on the following google drive link
+https://drive.google.com/file/d/1I4928zz9hu02TNPQ2fUN-gJN-vJsxH2K/view
+
+Assignment 6 :-
